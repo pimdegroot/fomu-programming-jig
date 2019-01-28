@@ -1,1 +1,0 @@
-This is a prototype for the Fomu hacker board programming jig. It doesn't work, but could be used as a starting point. See also this twitter thread: https://twitter.com/mifune/status/1079709936215605248
